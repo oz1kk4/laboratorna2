@@ -1,0 +1,83 @@
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.AssemblyReference.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\App.g.cs
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.lref
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.g.resources
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 3\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.lref
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.g.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Lab3-master\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.lref
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.g.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\App.g.cs
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3_MarkupCompile.lref
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.g.resources
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll

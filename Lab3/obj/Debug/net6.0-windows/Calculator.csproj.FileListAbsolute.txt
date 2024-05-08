@@ -1,0 +1,60 @@
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Calculator.exe
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Calculator.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\bin\Debug\net6.0-windows\Calculator.pdb
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\App.g.cs
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator_MarkupCompile.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator_MarkupCompile.lref
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.g.resources
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.pdb
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\guys\Покутнєв Олександр\OOP\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Calculator.dll
+D:\guys\Ozeran\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.exe
+D:\guys\Ozeran\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\guys\Ozeran\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\guys\Ozeran\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.dll
+D:\guys\Ozeran\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.pdb
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\App.g.cs
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator_MarkupCompile.cache
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator_MarkupCompile.lref
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.g.resources
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.dll
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.pdb
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\guys\Ozeran\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator_MarkupCompile.cache
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator_MarkupCompile.lref
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.g.resources
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\liliz\Downloads\Telegram Desktop\ООП\Lab2\Lab3\obj\Debug\net6.0-windows\ref\Calculator.dll

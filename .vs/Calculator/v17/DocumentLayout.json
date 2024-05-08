@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\rightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\rightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|c:\\users\\liliz\\downloads\\telegram desktop\\\u043E\u043E\u043F\\lab2\\lab3\\rightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{97D54228-767A-448B-B1E4-61553FD7A49C}|Lab3\\Calculator.csproj|solutionrelative:lab3\\rightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 607,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAowNcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\MainWindow.xaml",
+              "RelativeToolTip": "Lab3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T15:57:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RightPanel.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\RightPanel.cs",
+              "RelativeDocumentMoniker": "Lab3\\RightPanel.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\RightPanel.cs",
+              "RelativeToolTip": "Lab3\\RightPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Operation.cs",
+              "RelativeDocumentMoniker": "Lab3\\Operation.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Operation.cs",
+              "RelativeToolTip": "Lab3\\Operation.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAkwN0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Input.cs",
+              "RelativeDocumentMoniker": "Lab3\\Input.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Input.cs",
+              "RelativeToolTip": "Lab3\\Input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab3\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab3\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\App.xaml",
+              "RelativeDocumentMoniker": "Lab3\\App.xaml",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\App.xaml",
+              "RelativeToolTip": "Lab3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T15:57:33.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RightPanel.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\RightPanel.cs",
+              "RelativeDocumentMoniker": "Lab3\\RightPanel.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\RightPanel.cs",
+              "RelativeToolTip": "Lab3\\RightPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Operation.cs",
+              "RelativeDocumentMoniker": "Lab3\\Operation.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Operation.cs",
+              "RelativeToolTip": "Lab3\\Operation.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAAANMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Input.cs",
+              "RelativeDocumentMoniker": "Lab3\\Input.cs",
+              "ToolTip": "C:\\Users\\liliz\\Downloads\\Telegram Desktop\\\u041E\u041E\u041F\\Lab2\\Lab3\\Input.cs",
+              "RelativeToolTip": "Lab3\\Input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:57:33.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
